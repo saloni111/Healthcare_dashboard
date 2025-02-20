@@ -1,0 +1,51 @@
+Source,Target,Region,Weight,Referral_Urgency,Referral_Type,Avg_Transfer_Time_Minutes,Referral_Reason,Patient_Condition,Transfer_Mode,Referral_Department,Insurance_Type,Patient_Priority,Specialist_Availability,Equipment_Availability_Score,Center_Operational_Capacity,Avg_Waiting_Time_Minutes,Treatment_Success_Rate,Referral_Completion_Status,Follow_Up_Needed
+Center F,Center D,South,821,Low,Emergency,40,Specialist Consultation,Under Observation,Ambulance,Ophthalmology,Uninsured,Routine,Low,9,332,116,89.76,Completed,No
+Center E,Center E,West,1319,High,Routine,28,Routine Checkup,Stable,Private Transport,Cardiology,Uninsured,Urgent,Low,8,220,38,64.65,Pending,Yes
+Center C,Center D,West,980,Low,Routine,132,Routine Checkup,Stable,Walk-in,General Medicine,Uninsured,Critical,High,4,108,30,84.13,Rejected,No
+Center A,Center B,West,1221,High,Emergency,59,Routine Checkup,Critical,Private Transport,General Medicine,Private,Urgent,Low,5,81,99,64.71,Pending,Yes
+Center D,Center D,South,704,Low,Emergency,65,Specialist Consultation,Critical,Private Transport,Cardiology,Public,Critical,Medium,5,210,87,62.68,Completed,No
+Center F,Center A,South,121,Medium,Emergency,133,Specialist Consultation,Stable,Ambulance,Cardiology,Uninsured,Critical,Medium,6,333,18,94.56,Rejected,Yes
+Center F,Center D,Central,1295,Low,Emergency,165,Specialist Consultation,Under Observation,Ambulance,Emergency,Private,Urgent,Medium,3,155,56,67.22,Pending,No
+Center C,Center C,Central,482,Low,Routine,33,Routine Checkup,Critical,Ambulance,Cardiology,Uninsured,Critical,Medium,5,154,85,91.21,Rejected,No
+Center F,Center F,North,233,Low,Emergency,96,Post-Surgery Follow-up,Critical,Private Transport,Neurology,Private,Critical,Medium,2,488,51,80.7,Pending,Yes
+Center D,Center B,South,1148,High,Emergency,90,Emergency Surgery,Recovered,Ambulance,Cardiology,Uninsured,Routine,Low,1,277,60,62.96,Completed,No
+Center A,Center D,South,602,High,Routine,106,Post-Surgery Follow-up,Under Observation,Private Transport,Neurology,Public,Routine,Low,1,237,65,96.31,Pending,No
+Center C,Center A,South,1308,High,Emergency,47,Specialist Consultation,Under Observation,Private Transport,Cardiology,Public,Routine,Medium,7,119,60,69.38,Rejected,No
+Center F,Center G,Central,1208,Medium,Emergency,161,Specialist Consultation,Stable,Ambulance,Emergency,Uninsured,Routine,Low,2,367,79,92.67,Rejected,Yes
+Center F,Center F,West,243,Medium,Routine,42,Post-Surgery Follow-up,Under Observation,Walk-in,Neurology,Private,Critical,Low,4,339,29,66.41,Rejected,No
+Center D,Center B,East,323,Low,Emergency,137,Specialist Consultation,Stable,Walk-in,Ophthalmology,Uninsured,Urgent,Medium,5,136,97,92.45,Rejected,No
+Center E,Center A,Central,319,Medium,Emergency,140,Emergency Surgery,Recovered,Walk-in,Neurology,Private,Critical,Low,7,419,36,60.5,Completed,Yes
+Center E,Center E,South,278,Low,Emergency,51,Specialist Consultation,Under Observation,Private Transport,Emergency,Uninsured,Critical,Low,2,411,47,79.45,Pending,Yes
+Center G,Center C,Central,532,Low,Emergency,168,Emergency Surgery,Critical,Private Transport,Neurology,Private,Critical,Low,6,105,81,89.24,Completed,Yes
+Center F,Center E,North,364,Low,Emergency,113,Post-Surgery Follow-up,Recovered,Private Transport,Cardiology,Public,Urgent,Medium,1,162,74,95.52,Completed,Yes
+Center A,Center C,South,1053,Medium,Emergency,112,Post-Surgery Follow-up,Stable,Ambulance,Cardiology,Uninsured,Routine,Low,7,62,63,94.55,Completed,Yes
+Center C,Center D,North,528,High,Routine,141,Specialist Consultation,Recovered,Private Transport,Emergency,Public,Critical,High,9,489,33,91.15,Rejected,No
+Center F,Center B,South,515,Medium,Emergency,94,Emergency Surgery,Stable,Ambulance,General Medicine,Public,Critical,High,5,67,56,93.75,Rejected,No
+Center B,Center D,Central,826,Low,Routine,52,Specialist Consultation,Recovered,Ambulance,Cardiology,Uninsured,Routine,Medium,5,231,80,67.57,Rejected,No
+Center C,Center C,West,296,Low,Routine,91,Routine Checkup,Stable,Walk-in,Ophthalmology,Uninsured,Critical,High,4,162,92,70.8,Pending,Yes
+Center G,Center C,East,1176,Medium,Routine,140,Routine Checkup,Under Observation,Walk-in,Emergency,Private,Urgent,Medium,3,278,95,70.98,Rejected,No
+Center E,Center C,North,579,Low,Routine,101,Routine Checkup,Critical,Walk-in,Neurology,Private,Critical,High,9,220,72,74.33,Pending,Yes
+Center F,Center F,Central,1453,Low,Emergency,68,Routine Checkup,Stable,Ambulance,Neurology,Public,Critical,High,5,344,66,74.95,Rejected,Yes
+Center D,Center A,West,1374,Medium,Emergency,164,Specialist Consultation,Recovered,Ambulance,Ophthalmology,Private,Routine,High,8,238,64,80.69,Rejected,No
+Center B,Center B,Central,989,Medium,Emergency,30,Routine Checkup,Stable,Ambulance,Cardiology,Private,Critical,Medium,9,475,69,66.08,Completed,Yes
+Center F,Center D,North,1024,Medium,Routine,42,Emergency Surgery,Stable,Private Transport,Emergency,Uninsured,Critical,Medium,5,128,108,86.27,Completed,Yes
+Center G,Center D,East,222,Low,Emergency,177,Post-Surgery Follow-up,Stable,Ambulance,Ophthalmology,Private,Urgent,Low,9,195,71,66.37,Completed,No
+Center A,Center E,Central,1462,Low,Emergency,60,Post-Surgery Follow-up,Recovered,Walk-in,Cardiology,Public,Routine,Medium,2,456,39,71.79,Pending,Yes
+Center B,Center C,South,877,High,Emergency,86,Routine Checkup,Critical,Walk-in,Emergency,Private,Routine,High,9,231,102,79.13,Pending,Yes
+Center G,Center G,West,447,High,Routine,99,Routine Checkup,Under Observation,Ambulance,Neurology,Public,Urgent,High,4,335,31,90.26,Rejected,No
+Center F,Center C,Central,128,Medium,Routine,40,Routine Checkup,Critical,Ambulance,Emergency,Uninsured,Critical,Medium,6,299,84,88.1,Pending,Yes
+Center A,Center C,West,1074,High,Emergency,99,Specialist Consultation,Stable,Walk-in,General Medicine,Public,Routine,Medium,6,403,93,84.53,Rejected,Yes
+Center B,Center G,South,134,Low,Routine,167,Post-Surgery Follow-up,Recovered,Ambulance,Emergency,Private,Routine,Medium,6,363,38,65.92,Pending,No
+Center A,Center D,East,722,High,Routine,79,Routine Checkup,Critical,Walk-in,General Medicine,Uninsured,Critical,Low,2,245,50,80.79,Pending,No
+Center A,Center E,East,1417,Low,Emergency,148,Emergency Surgery,Stable,Private Transport,Emergency,Private,Critical,High,7,372,51,63.32,Pending,No
+Center B,Center A,South,688,Medium,Routine,165,Routine Checkup,Under Observation,Walk-in,General Medicine,Uninsured,Routine,Low,6,120,107,74.34,Completed,No
+Center B,Center G,West,1472,Medium,Routine,129,Post-Surgery Follow-up,Under Observation,Private Transport,Neurology,Uninsured,Critical,Low,1,297,74,75.71,Pending,Yes
+Center A,Center F,Central,1270,Low,Emergency,78,Routine Checkup,Under Observation,Ambulance,Cardiology,Private,Routine,High,2,195,40,61.51,Completed,Yes
+Center G,Center B,South,1190,High,Routine,101,Post-Surgery Follow-up,Stable,Ambulance,General Medicine,Private,Critical,High,7,155,39,70.41,Completed,No
+Center E,Center G,North,1003,Medium,Routine,121,Routine Checkup,Recovered,Private Transport,General Medicine,Uninsured,Critical,Medium,1,312,27,96.31,Pending,Yes
+Center B,Center A,West,619,Medium,Routine,165,Emergency Surgery,Critical,Ambulance,Neurology,Uninsured,Urgent,Medium,1,345,26,96.24,Rejected,Yes
+Center F,Center D,East,221,High,Routine,110,Routine Checkup,Under Observation,Private Transport,General Medicine,Private,Critical,Low,1,119,47,73.39,Rejected,No
+Center C,Center F,South,439,High,Routine,172,Emergency Surgery,Stable,Ambulance,Ophthalmology,Public,Urgent,Medium,8,242,23,61.64,Rejected,No
+Center D,Center F,East,274,Low,Routine,91,Emergency Surgery,Stable,Walk-in,Neurology,Private,Critical,Medium,4,117,96,66.81,Pending,Yes
+Center A,Center F,West,696,High,Routine,160,Routine Checkup,Critical,Ambulance,Ophthalmology,Uninsured,Routine,High,4,354,98,74.9,Rejected,No
+Center A,Center C,East,550,High,Routine,101,Emergency Surgery,Under Observation,Walk-in,Neurology,Private,Routine,High,2,101,88,96.02,Completed,No
