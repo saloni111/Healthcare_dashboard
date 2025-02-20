@@ -172,7 +172,7 @@ api_key = 'AIzaSyA6AgtkkCpe8TIyS4mimA7YJ8e-jF6Jclo'
 llm = ChatGoogleGenerativeAI(api_key=api_key, model="gemini-pro")
 
 # Load healthcare data
-data_path = '/Users/saloni/Downloads/PublicHealthMonitoringThroughRetinalImaging.csv'
+data_path = 'PublicHealthMonitoringThroughRetinalImaging.csv'
 try:
     healthcare_data = pd.read_csv(data_path)
 except FileNotFoundError:
